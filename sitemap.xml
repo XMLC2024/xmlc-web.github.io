@@ -2,42 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://xmlc2024.github.io/xmlc-web.github.io/</loc>
-         <lastmod>2023-07-28</lastmod>
+         <lastmod>2023-07-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://xmlc2024.github.io/xmlc-web.github.io/tools/B-1/</loc>
-         <lastmod>2023-07-28</lastmod>
+         <lastmod>2023-07-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://xmlc2024.github.io/xmlc-web.github.io/tools/Git/</loc>
-         <lastmod>2023-07-28</lastmod>
+         <lastmod>2023-07-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://xmlc2024.github.io/xmlc-web.github.io/tools/Github/</loc>
-         <lastmod>2023-07-28</lastmod>
+         <lastmod>2023-07-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://xmlc2024.github.io/xmlc-web.github.io/tools/Mck/</loc>
-         <lastmod>2023-07-28</lastmod>
+         <lastmod>2023-07-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://xmlc2024.github.io/xmlc-web.github.io/tools/MkDocs/</loc>
-         <lastmod>2023-07-28</lastmod>
+         <lastmod>2023-07-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://xmlc2024.github.io/xmlc-web.github.io/tools/%5B%E5%A4%87%E4%BB%BD%5D%E8%91%A3%E5%A3%ABting%20%E3%81%AE%20%E7%A5%9E%E5%A5%87%E5%A2%A8%E9%B1%BC%E4%B8%B8/</loc>
-         <lastmod>2023-07-28</lastmod>
+         <lastmod>2023-07-30</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://xmlc2024.github.io/xmlc-web.github.io/tools/liandongmoyuwan/</loc>
+         <lastmod>2023-07-30</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://xmlc2024.github.io/xmlc-web.github.io/tools/luogu2048/</loc>
+         <lastmod>2023-07-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://xmlc2024.github.io/xmlc-web.github.io/tools/moyuwan2/</loc>
-         <lastmod>2023-07-28</lastmod>
+         <lastmod>2023-07-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
